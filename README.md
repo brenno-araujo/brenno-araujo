@@ -20,7 +20,7 @@ And some metrics:
  <img src="https://github-readme-stats.vercel.app/api?username=brennoaraujodev&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoaraujodev&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
-<h2>Total de Visitas no Perfil 🕵🏾‍♂️</h2>
+<h2>Total Profile Visits 🕵🏾‍♂️</h2>
 <p align="center">
    <img src="https://profile-counter.glitch.me/brennoaraujodev/count.svg" alt="Contador de Views"> 
 </p>
