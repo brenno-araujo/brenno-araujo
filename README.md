@@ -6,7 +6,7 @@
 
 My name is Brenno and I'm back-end developer.
 
- 💙  In love with JS and PHP<br>
+ 💙  In love PHP and laravel <br>
  💻  Passionate about creating solutions <br>
  🎓  Graduated in Systems Analysis and Development<br>
  👾  Workint at Iboss Tecnlogias <br>
