@@ -4,7 +4,7 @@
 
 ### Welcome to my profile :man_technologist:
 
-My name is Brenno and I'm back-end developer.
+My name is Brenno and I'm full-stack developer.
 
  💙  In love PHP and laravel <br>
  💻  Passionate about creating solutions <br>
