@@ -31,9 +31,9 @@ Main technologies:
 
 And some metrics:
 
-<!-- <p align="start">
+<p align="start">
  <img src="https://github-profile-trophy.vercel.app/?username=brenno-git&column=7&theme=onedark"/>
-</p> -->
+</p>
 <p align="start">
  <img src="https://github-readme-stats.vercel.app/api?username=brenno-git&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-git&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
