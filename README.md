@@ -9,7 +9,7 @@ My name is Brenno and I'm full-stack developer.
  💙  In love PHP and laravel <br>
  💻  Passionate about creating solutions <br>
  🎓  Graduated in Systems Analysis and Development<br>
- 👾  Workint at Iboss Tecnlogias - https://github.com/brennoiboss <br>
+ 👾  Workint at Iboss Tecnlogias <br>
 
 
 Main technologies:
@@ -32,15 +32,15 @@ Main technologies:
 And some metrics:
 
 <!-- <p align="start">
- <img src="https://github-profile-trophy.vercel.app/?username=brenno-araujo&column=7&theme=onedark"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=brenno-git&column=7&theme=onedark"/>
 </p> -->
 <p align="start">
- <img src="https://github-readme-stats.vercel.app/api?username=brenno-araujo&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-araujo&layout=compact&theme=tokyonight" alt="languages" height="165">
+ <img src="https://github-readme-stats.vercel.app/api?username=brenno-git&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-git&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
 <h2 align="center">Total Profile Visits 🕵🏾‍♂️</h2>
 <p align="center">
-   <img src="https://profile-counter.glitch.me/brenno-araujo/count.svg" alt="Contador de Views"> 
+   <img src="https://profile-counter.glitch.me/brenno-git/count.svg" alt="Contador de Views"> 
 </p>
 
 <div>
