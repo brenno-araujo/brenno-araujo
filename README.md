@@ -29,15 +29,12 @@ Main technologies:
  </div>
 
 
-And some metrics:
+And the most used languages:
 
-<p align="start">
- <img src="https://github-readme-stats.vercel.app/api?username=brenno-git&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-git&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-git&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<h2 align="center">Total Profile Visits 🕵🏾‍♂️</h2>
-<p align="center">
-   <img src="https://profile-counter.glitch.me/brenno-git/count.svg" alt="Contador de Views"> 
-</p>
 
 <div>
