@@ -6,8 +6,6 @@
 
 My name is Brenno and I'm full-stack developer.
 
- 💙  In love PHP and laravel <br>
- 💻  Passionate about creating solutions <br>
  🎓  Graduated in Systems Analysis and Development<br>
  👾  Workint at Iboss Tecnlogias <br>
 
