@@ -26,6 +26,6 @@ Main technologies:
    </p>
 </div>
  
- <a href="https://github.com/brenno-git">
+<!--  <a href="https://github.com/brenno-git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-git&theme=dracula&hide_langs_below=1" />
-</a>
+</a> -->
