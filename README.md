@@ -12,7 +12,6 @@ My name is Brenno and I'm full-stack developer.
 
 Main technologies:
 
-
 <div>
    <p>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> 
@@ -25,6 +24,20 @@ Main technologies:
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    </p>
 </div>
+
+
+<p align="left">
+  <a href="https://github.com/brenno-git">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=brenno-git&rank=S,AAA,AA,A"
+    />
+  </a>
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenno-git&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brenno-git&theme=radical&hide=blade)](https://github.com/anuraghazra/github-readme-stats)
+
  
 <!--  <a href="https://github.com/brenno-git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-git&theme=dracula&hide_langs_below=1" />
