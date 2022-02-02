@@ -26,17 +26,8 @@ Main technologies:
 </div>
 
 
-<p align="left">
-  <a href="https://github.com/brenno-git">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=brenno-git&rank=S,AAA,AA,A"
-    />
-  </a>
-</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenno-git&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brenno-git&theme=radical&hide=blade)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brenno-git&theme=&hide=blade)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <!--  <a href="https://github.com/brenno-git">
