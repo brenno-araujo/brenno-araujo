@@ -8,16 +8,6 @@ My name is Brenno and I'm full-stack developer.
 
  🎓  Graduated in Systems Analysis and Development<br>
  👾  Workint at Iboss Tecnlogias <br>
- 
- 
- <p align="center">
-  <a href="https://github.com/brenno-git">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=brenno-git&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</p>
 
 
 Main technologies:
