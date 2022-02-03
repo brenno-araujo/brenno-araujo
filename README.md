@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brennoaraujo/)](https://www.linkedin.com/in/brennoaraujo/)
 
-### Welcome to my profile :man_technologist:
+### Welcome to my profile
 
 My name is Brenno and I'm full-stack developer.
 
