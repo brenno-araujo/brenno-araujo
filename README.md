@@ -10,7 +10,7 @@ My name is Brenno and I'm full-stack developer.
  👾  Workint at Iboss Tecnlogias <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brenno-git&theme=&hide=blade)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brenno-git&theme=&hide=blade,html,css,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills Back-End
