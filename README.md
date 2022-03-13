@@ -4,7 +4,7 @@
 
 ### Welcome to my profile
 
-My name is Brenno and I'm full-stack developer.
+My name is Brenno and I'm back-end developer.
 
  🎓  Graduated in Systems Analysis and Development<br>
  👾  Workint at Iboss Tecnlogias <br>
