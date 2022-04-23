@@ -10,7 +10,7 @@ My name is Brenno and I'm back-end developer.
  👾  Workint at Iboss Tecnlogias <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brenno-git&theme=&hide=blade,html,css,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brenno-araujo&theme=&hide=blade,html,css,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills Back-End
@@ -60,6 +60,6 @@ My name is Brenno and I'm back-end developer.
     
  </p>
  
-<!--  <a href="https://github.com/brenno-git">
+<!--  <a href="https://github.com/brenno-araujo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-git&theme=dracula&hide_langs_below=1" />
 </a> -->
