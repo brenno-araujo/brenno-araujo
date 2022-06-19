@@ -7,7 +7,7 @@
 
 My name is Brenno and I'm back-end developer.
 
- 🎓  Graduated in Systems Analysis and Development<br>
+ 🎓  Graduated in Systems Analysis and Development - IFBA <br>
  👾  Workint at Iboss Tecnlogias <br>
 
 <!-- Top languages -->
