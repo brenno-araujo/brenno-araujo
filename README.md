@@ -9,7 +9,7 @@
  👾  Workint at Iboss Tecnlogias <br>
 
 <!-- Top languages -->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brenno-araujo&theme=apprentice&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brenno-araujo&theme=apprentice&hide=html,css,shell)](https://github.com/anuraghazra/github-readme-stats)
  
 <!-- Skills  -->
 ## Skills 
