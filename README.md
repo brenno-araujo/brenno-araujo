@@ -7,9 +7,6 @@
 
  🎓  Graduated in Systems Analysis and Development - IFBA <br>
  👾  Workint at Iboss Tecnlogias <br>
-
-<!-- Top languages -->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brenno-araujo&theme=apprentice&hide=html,css,shell,vue,blade)](https://github.com/brenno-araujo)
  
 <!-- Skills  -->
 ## Skills 
