@@ -19,13 +19,8 @@
     <img height="40" src="https://miro.medium.com/max/1400/1*XOMTPWTpDLypkp079p9XXg.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
     <br/>
 </p>
 <br/>
-
- <p align="center">
-   
-
-   
- </p>
